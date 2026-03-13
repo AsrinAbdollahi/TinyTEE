@@ -14,5 +14,7 @@ The code and DETAILS will be uploaded soon!
 
 ```bash
 git clone https://github.com/AsrinAbdollahi/TinyTEE.git
-cd my-riscv-project
-
+cd TinyTEE
+make toolchains
+source activate-toolchains.sh
+make launch
