@@ -13,6 +13,8 @@ make debug
 - Renode
 ```bash
 git clone https://github.com/renode/renode.git
+git clone --recursive https://github.com/riscv-collab/riscv-gnu-toolchain
+https://github.com/antmicro/renode-verilator-integration.git
 ```
 
 - TinyTEE bare metal RISC-V
