@@ -5,7 +5,9 @@ Trusted Execution Environment(TEE) for resource-constrained IoT Devices
 - RISC-V GNU Toolchain
 
 ```bash
-
+make clean
+make launch
+make debug
 ```
 
 - Renode
