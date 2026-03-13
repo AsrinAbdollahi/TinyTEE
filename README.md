@@ -12,7 +12,7 @@ Placeholder for TinyTEE paper; a draft paper about TEE for Low-power IoT devices
 The code and DETAILS will be uploaded soon! 
 
 
-'''
-git clone https://github.com/yourusername/my-riscv-project.git
+'''bash
+git clone https://github.com/AsrinAbdollahi/TinyTEE.git
 cd my-riscv-project
-'''
+
