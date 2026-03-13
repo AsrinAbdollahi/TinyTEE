@@ -3,12 +3,15 @@ Trusted Execution Environment(TEE) for resource-constrained IoT Devices
 
 ## Requierments
 - RISC-V GNU Toolchain
+
+```bash
+
+```
+
 - Renode
 - TinyTEE bare metal RISC-V
 ## RUN
-
-
-
+After making sure all three dependencies are installed, run:
 
 ```bash
 git clone https://github.com/AsrinAbdollahi/TinyTEE.git
