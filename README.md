@@ -11,6 +11,10 @@ make debug
 ```
 
 - Renode
+```bash
+git clone https://github.com/renode/renode.git
+```
+
 - TinyTEE bare metal RISC-V
 ## RUN
 After making sure all three dependencies are installed, run:
