@@ -8,6 +8,7 @@ Trusted Execution Environment(TEE) for resource-constrained IoT Devices
 make clean
 make launch
 make debug
+source activate-toolchains.sh
 ```
 
 - Renode
